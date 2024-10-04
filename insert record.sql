@@ -3,20 +3,20 @@ INSERT INTO Hotels (Hotel_Name, Location, Rating)
 VALUES ('Grand Palace ', 'KIGALI', 5);
 
 INSERT INTO Hotels (Hotel_Name, Location, Rating)
-VALUES ('MARRIOTT', 'KIGALI', 4);
+VALUES ('Marriott', 'KIGALI', 4);
 
 INSERT INTO Hotels (Hotel_Name, Location, Rating)
-VALUES ('RADDISON', 'KIGALI', 3);
+VALUES ('Raddison', 'KIGALI', 3);
 
 -- Inserting sample data into Customers table
 INSERT INTO Customers (First_Name, Last_Name, Email, Phone_Number)
-VALUES ('BONFILS', 'LEOPOLD', 'leopoldbonfils.com', '0786435524');
+VALUES ('BONFILS', 'LEOPOLD', 'leopoldbonfils.com', '0783475834');
 
 INSERT INTO Customers (First_Name, Last_Name, Email, Phone_Number)
-VALUES ('', '', '0784635373');
+VALUES ('MUGISHA', 'ERIC','mugishaeric@gmail.com', '0784738924');
 
 INSERT INTO Customers (First_Name, Last_Name, Email, Phone_Number)
-VALUES ('lucky', 'Brown', '@gmail.com', '0784363534');
+VALUES ('lucky', 'Brown', 'luckbrown@gmail.com', '0785758392');
 
 -- Inserting sample data into Rooms table
 INSERT INTO Rooms (Hotel_ID, Room_Number, Room_Type, Price_Per_Night, Availability_Status)
