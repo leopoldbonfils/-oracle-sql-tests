@@ -165,6 +165,7 @@ This project is licensed under the MIT License.
 
 This README.md provides clear instructions, details on the database structure, and sample SQL queries to help others understand and use your Hotel Booking System.
 
-![image ](https://github.com/user-attachments/assets/a57514ec-9440-433d-8a0a-fb2e1916ee57)
+![image ](https://github.com/user-attachments/assets/adabca70-3a98-4285-82b7-99dbe3f1671f)
+
 
 
