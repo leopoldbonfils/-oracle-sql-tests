@@ -1,22 +1,22 @@
 -- Inserting sample data into Hotels table
 INSERT INTO Hotels (Hotel_Name, Location, Rating)
-VALUES ('Grand Palace Hotel', 'New York', 5);
+VALUES ('Grand Palace ', 'KIGALI', 5);
 
 INSERT INTO Hotels (Hotel_Name, Location, Rating)
-VALUES ('Sunshine Resort', 'Miami', 4);
+VALUES ('MARRIOTT', 'KIGALI', 4);
 
 INSERT INTO Hotels (Hotel_Name, Location, Rating)
-VALUES ('Ocean View Suites', 'Los Angeles', 3);
+VALUES ('RADDISON', 'KIGALI', 3);
 
 -- Inserting sample data into Customers table
 INSERT INTO Customers (First_Name, Last_Name, Email, Phone_Number)
-VALUES ('John', 'Doe', 'john.doe@example.com', '123-456-7890');
+VALUES ('BONFILS', 'LEOPOLD', 'leopoldbonfils.com', '0786435524');
 
 INSERT INTO Customers (First_Name, Last_Name, Email, Phone_Number)
-VALUES ('Jane', 'Smith', 'jane.smith@example.com', '234-567-8901');
+VALUES ('', '', '0784635373');
 
 INSERT INTO Customers (First_Name, Last_Name, Email, Phone_Number)
-VALUES ('Michael', 'Brown', 'michael.brown@example.com', '345-678-9012');
+VALUES ('lucky', 'Brown', '@gmail.com', '0784363534');
 
 -- Inserting sample data into Rooms table
 INSERT INTO Rooms (Hotel_ID, Room_Number, Room_Type, Price_Per_Night, Availability_Status)
